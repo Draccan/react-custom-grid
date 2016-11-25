@@ -1,6 +1,6 @@
 {
   "name": "react-custom-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom grid using react-bootstrap-table",
   "main": "app/main.html",
   "scripts": {
