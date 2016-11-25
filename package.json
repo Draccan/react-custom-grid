@@ -2,7 +2,7 @@
   "name": "react-custom-grid",
   "version": "1.0.0",
   "description": "Custom grid using react-bootstrap-table",
-  "main": "index.js",
+  "main": "app/main.html",
   "scripts": {
     "build": "sd-builder build",
     "config": "sd-builder config",
