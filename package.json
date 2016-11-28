@@ -1,8 +1,8 @@
 {
   "name": "react-custom-grid",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Custom grid using react-bootstrap-table",
-  "main": "app/main.html",
+  "main": "app/views/mainlayout/custom-grid.jsx",
   "scripts": {
     "build": "sd-builder build",
     "config": "sd-builder config",
@@ -36,6 +36,7 @@
     "react-bootstrap": "^0.30.7",
     "react-bootstrap-table": "^2.5.5",
     "react-router": "^3.0.0",
-    "sd-builder": "^4.0.0"
+    "sd-builder": "^4.0.0",
+    "webpack": "^1.13.3"
   }
 }
